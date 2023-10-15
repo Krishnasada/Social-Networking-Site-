@@ -6,7 +6,7 @@
        body {
     background-image: url("bg.jpeg");
     background-size: cover;
-    background-position   : 21% 21%;
+    background-position   : 25% 21%;
     background-repeat: no-repeat;
    
 }    
